@@ -1,0 +1,40 @@
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.exe
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.deps.json
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.runtimeconfig.json
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.pdb
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather_MarkupCompile.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather_MarkupCompile.lref
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.g.resources
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.AssemblyInfoInputs.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.AssemblyInfo.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.csproj.CoreCompileInputs.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\refint\lab_1_weather.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.pdb
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.genruntimeconfig.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\ref\lab_1_weather.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.exe
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.deps.json
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.runtimeconfig.json
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\bin\Debug\net8.0-windows\lab_1_weather.pdb
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather_MarkupCompile.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather_MarkupCompile.lref
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.g.resources
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.AssemblyInfoInputs.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.AssemblyInfo.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.csproj.CoreCompileInputs.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\refint\lab_1_weather.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.pdb
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\lab_1_weather.genruntimeconfig.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 погода\lab_1_weather\lab_1_weather\obj\Debug\net8.0-windows\ref\lab_1_weather.dll

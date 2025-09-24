@@ -1,0 +1,40 @@
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.exe
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.deps.json
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.runtimeconfig.json
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.pdb
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab_MarkupCompile.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab_MarkupCompile.lref
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.g.resources
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.AssemblyInfoInputs.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.AssemblyInfo.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.csproj.CoreCompileInputs.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\refint\1_lab.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.pdb
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.genruntimeconfig.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\Лаба 1\1_lab\1_lab\obj\Debug\net8.0-windows\ref\1_lab.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.exe
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.deps.json
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.runtimeconfig.json
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\bin\Debug\net8.0-windows\1_lab.pdb
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab_MarkupCompile.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab_MarkupCompile.lref
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.g.resources
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.AssemblyInfoInputs.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.AssemblyInfo.cs
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.csproj.CoreCompileInputs.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\refint\1_lab.dll
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.pdb
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\1_lab.genruntimeconfig.cache
+C:\Users\im010\OneDrive\Рабочий стол\Учеба\Программирование и обработка графичекого интерфейса\1 лаба\Лаба 1 калькулятор\1_lab\1_lab\obj\Debug\net8.0-windows\ref\1_lab.dll

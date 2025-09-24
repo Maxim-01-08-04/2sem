@@ -1,0 +1,37 @@
+﻿<Window x:Class="lab_1_weather.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab_1_weather"
+        mc:Ignorable="d"
+        Title="Weather" Height="300" Width="400">
+    <Grid>
+        <Border BorderThickness="1" BorderBrush="Black" CornerRadius="5" Margin="10" Padding="10">
+            <Grid Background="#E6F7FF">
+                <TextBlock Name="CityName" Text="Район, Новосибирск" FontSize="20" FontWeight="Bold" 
+                           HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,10"/>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,40,0,0">
+                    <TextBlock Name="TimeText" Text="Сейчас 12:00. Вчера в это время 8" FontSize="14" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,70,0,0">
+                    <TextBlock Name="TemperatureText" Text="15" FontSize="48" FontWeight="Bold"/>
+                    <Image Name="WeatherIcon" Source="/Resources/sun.png" Width="50" Height="50" Margin="10,0,0,0"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,120,0,0">
+                    <Image Source="/Resources/pour-rain.png" Width="20" Height="20" Margin="0,0,5,0"/>
+                    <TextBlock Name="WindText" Text="1,0 м/с, Ю" FontSize="14" />
+
+                    <Image Source="/Resources/wind.png" Width="20" Height="20" Margin="20,0,5,0"/>
+                    <TextBlock Name="HumidityText" Text="95%" FontSize="14" />
+
+                    <Image Source="/Resources/blood-pressure.png" Width="20" Height="20" Margin="20,0,5,0"/>
+                    <TextBlock Name="PressureText" Text="766 мм рт. ст." FontSize="14" />
+                </StackPanel>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>
