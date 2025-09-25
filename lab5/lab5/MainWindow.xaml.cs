@@ -16,9 +16,7 @@ using System.Windows.Shapes;
 
 namespace lab5
 {
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
+   
     public partial class MainWindow : Window
     {
         private bool _isDarkTheme = false;
@@ -68,7 +66,7 @@ namespace lab5
         {
             _isDarkTheme = !_isDarkTheme;
             Background = _isDarkTheme ? Brushes.DimGray : Brushes.WhiteSmoke;
-            ThemeToggleButton.Content = _isDarkTheme ? "☀️ Светлая тема" : "🌙 Темная тема";
+            ThemeToggleButton.Content = _isDarkTheme ? "Светлая тема" : "Темная тема";
         }
     }
 
@@ -164,13 +162,13 @@ namespace lab5
                 HorizontalAlignment = HorizontalAlignment.Center
             };
 
-            var lightBtn = new Button { Content = "💡 Свет", Margin = new Thickness(2) };
+            var lightBtn = new Button { Content = "Свет", Margin = new Thickness(2) };
             lightBtn.Click += (s, e) => CurrentRoom.IsLightOn = !CurrentRoom.IsLightOn;
 
-            var editBtn = new Button { Content = "✏️ Изменить", Margin = new Thickness(2) };
+            var editBtn = new Button { Content = "Изменить", Margin = new Thickness(2) };
             editBtn.Click += (s, e) => EditRequested?.Invoke(CurrentRoom);
 
-            var deleteBtn = new Button { Content = "🗑️ Удалить", Margin = new Thickness(2) };
+            var deleteBtn = new Button { Content = "Удалить", Margin = new Thickness(2) };
             deleteBtn.Click += async (s, e) =>
             {
                 await AnimateDeleteAsync();
