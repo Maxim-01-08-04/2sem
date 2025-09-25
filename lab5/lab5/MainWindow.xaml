@@ -27,9 +27,9 @@
         </Grid.RowDefinitions>
 
         <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10" Background="#FFDDDDDD">
-            <Button Content="➕ Добавить комнату" Click="AddRoom_Click" 
+            <Button Content="Добавить комнату" Click="AddRoom_Click" 
                    Style="{StaticResource RoomButtonStyle}" FontSize="12"/>
-            <Button x:Name="ThemeToggleButton" Content="🌙 Темная тема" Click="ToggleTheme_Click" 
+            <Button x:Name="ThemeToggleButton" Content="Темная тема" Click="ToggleTheme_Click" 
                    Style="{StaticResource RoomButtonStyle}" FontSize="12" Margin="10,0,0,0"/>
         </StackPanel>
 
