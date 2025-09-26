@@ -1,0 +1,65 @@
+﻿<Window x:Class="lab6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+            <Button Content="Выбрать БД" Click="SelectDatabaseClick" Margin="0,0,10,0"/>
+            <Button Content="Обновить данные" Click="RefreshDataClick" Margin="0,0,10,0"/>
+            <TextBlock x:Name="DbPathText" VerticalAlignment="Center"/>
+        </StackPanel>
+
+        <TabControl Grid.Row="1" Margin="10">
+            <TabItem Header="Квартиры">
+                <DataGrid x:Name="ApartmentsGrid" AutoGenerateColumns="False" CanUserAddRows="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ID" Binding="{Binding Id}" IsReadOnly="True"/>
+                        <DataGridTextColumn Header="Номер квартиры" Binding="{Binding ApartmentNumber}"/>
+                        <DataGridTextColumn Header="Описание" Binding="{Binding Description}"/>
+                        <DataGridTemplateColumn Header="Действия">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Удалить" Click="DeleteApartmentClick"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+
+            <TabItem Header="Комнаты">
+                <DataGrid x:Name="RoomsGrid" AutoGenerateColumns="False" CanUserAddRows="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ID" Binding="{Binding Id}" IsReadOnly="True"/>
+                        <DataGridTextColumn Header="ID квартиры" Binding="{Binding ApartmentId}"/>
+                        <DataGridTextColumn Header="Название" Binding="{Binding Name}"/>
+                        <DataGridTextColumn Header="Площадь" Binding="{Binding RoomInfo.Area}"/>
+                        <DataGridTextColumn Header="Температура" Binding="{Binding RoomInfo.Temperature}"/>
+                        <DataGridCheckBoxColumn Header="Свет" Binding="{Binding RoomInfo.IsLightOn}"/>
+                        <DataGridTemplateColumn Header="Действия">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Удалить" Click="DeleteRoomClick"/>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+        </TabControl>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Сохранить изменения" Click="SaveChangesClick" Margin="0,0,10,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
